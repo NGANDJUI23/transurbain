@@ -1,0 +1,9 @@
+# source target distance time capacity
+A B 4 6 100
+A C 2 3 80
+B C 5 4 50
+B D 10 12 70
+C E 3 5 90
+E D 4 6 60
+D F 11 9 120
+E F 8 7 110

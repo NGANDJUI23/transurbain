@@ -1,0 +1,14 @@
+{
+  "directed": true,
+  "vertices": ["A", "B", "C", "D", "E", "F"],
+  "arcs": [
+    {"source": "A", "target": "B", "distance": 4, "time": 6,  "capacity": 100},
+    {"source": "A", "target": "C", "distance": 2, "time": 3,  "capacity": 80},
+    {"source": "B", "target": "C", "distance": 5, "time": 4,  "capacity": 50},
+    {"source": "B", "target": "D", "distance": 10,"time": 12, "capacity": 70},
+    {"source": "C", "target": "E", "distance": 3, "time": 5,  "capacity": 90},
+    {"source": "E", "target": "D", "distance": 4, "time": 6,  "capacity": 60},
+    {"source": "D", "target": "F", "distance": 11,"time": 9,  "capacity": 120},
+    {"source": "E", "target": "F", "distance": 8, "time": 7,  "capacity": 110}
+  ]
+}
