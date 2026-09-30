@@ -1,0 +1,4 @@
+Reseau non oriente : non connexe
+Composantes (2) :
+  {A, B, C}
+  {D, E}

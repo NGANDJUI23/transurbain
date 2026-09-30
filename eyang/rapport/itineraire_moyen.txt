@@ -1,0 +1,6 @@
+Algorithme : Moore-Dijkstra
+Critere : temps
+Source : S000
+Cible : S010
+Cout : 11
+Chemin : S000 -> S004 -> S008 -> S010

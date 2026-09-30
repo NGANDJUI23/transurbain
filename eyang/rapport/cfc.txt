@@ -1,0 +1,5 @@
+Composantes fortement connexes (4) :
+  {A}
+  {B}
+  {C}
+  {D, E, F}

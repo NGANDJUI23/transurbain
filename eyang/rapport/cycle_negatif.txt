@@ -1,0 +1,4 @@
+Algorithme : Bellman-Ford
+Critere : cout
+Source : A
+Cycle de poids negatif atteignable : aucun plus court chemin fiable.

@@ -1,0 +1,8 @@
+Comparaison liste d'adjacence / matrice d'adjacence
+Sommets : 200 | Arcs : 600 | Requetes : 20000
+Memoire liste   : 183176 octets
+Memoire matrice : 1320000 octets
+Test d'arc liste    : 0.021751 s
+Test d'arc matrice  : 0.009207 s
+Voisins liste       : 0.007323 s
+Voisins matrice     : 0.507824 s

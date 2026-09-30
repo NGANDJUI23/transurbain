@@ -1,0 +1,9 @@
+Algorithme : Kruskal
+Le reseau non oriente est connexe.
+Cout total (distance) : 9
+Liaisons :
+  B - C (1)
+  D - E (1)
+  A - C (2)
+  D - F (2)
+  C - E (3)

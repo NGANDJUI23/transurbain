@@ -1,0 +1,8 @@
+Centralite harmonique (critere : temps)
+Rang  Station  Score   Somme  Atteintes
+   1  B        1.8667     12  4
+   2  A        1.3762     22  5
+   3  E        1.3333      4  2
+   4  C        1.0333     10  3
+   5  F        0.8333      5  2
+   6  D        0.7500      6  2

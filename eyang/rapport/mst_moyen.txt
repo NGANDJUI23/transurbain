@@ -1,0 +1,49 @@
+Algorithme : Kruskal
+Le reseau non oriente est connexe.
+Cout total (distance) : 46
+Liaisons :
+  S000 - S001 (1)
+  S000 - S002 (1)
+  S000 - S004 (1)
+  S000 - S018 (1)
+  S009 - S010 (1)
+  S009 - S011 (1)
+  S009 - S013 (1)
+  S018 - S019 (1)
+  S000 - S016 (2)
+  S005 - S007 (2)
+  S007 - S011 (2)
+  S014 - S016 (2)
+  S001 - S003 (3)
+  S010 - S012 (3)
+  S003 - S007 (4)
+  S006 - S008 (4)
+  S015 - S017 (4)
+  S001 - S017 (6)
+  S005 - S006 (6)
+
+Algorithme : Prim
+Le reseau non oriente est connexe.
+Cout total (distance) : 46
+Liaisons :
+  S000 - S001 (1)
+  S000 - S002 (1)
+  S000 - S004 (1)
+  S000 - S018 (1)
+  S009 - S010 (1)
+  S009 - S011 (1)
+  S009 - S013 (1)
+  S018 - S019 (1)
+  S000 - S016 (2)
+  S005 - S007 (2)
+  S007 - S011 (2)
+  S014 - S016 (2)
+  S001 - S003 (3)
+  S010 - S012 (3)
+  S003 - S007 (4)
+  S006 - S008 (4)
+  S015 - S017 (4)
+  S001 - S017 (6)
+  S005 - S006 (6)
+
+Meme cout total.

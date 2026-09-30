@@ -1,0 +1,446 @@
+{
+  "stations": [
+    "S000",
+    "S001",
+    "S002",
+    "S003",
+    "S004",
+    "S005",
+    "S006",
+    "S007",
+    "S008",
+    "S009",
+    "S010",
+    "S011",
+    "S012",
+    "S013",
+    "S014",
+    "S015",
+    "S016",
+    "S017",
+    "S018",
+    "S019"
+  ],
+  "arcs": [
+    {
+      "source": "S000",
+      "destination": "S001",
+      "distance": 1,
+      "temps": 2,
+      "capacite": 100
+    },
+    {
+      "source": "S000",
+      "destination": "S002",
+      "distance": 1,
+      "temps": 3,
+      "capacite": 100
+    },
+    {
+      "source": "S000",
+      "destination": "S004",
+      "distance": 1,
+      "temps": 5,
+      "capacite": 100
+    },
+    {
+      "source": "S001",
+      "destination": "S002",
+      "distance": 2,
+      "temps": 3,
+      "capacite": 110
+    },
+    {
+      "source": "S001",
+      "destination": "S003",
+      "distance": 3,
+      "temps": 4,
+      "capacite": 110
+    },
+    {
+      "source": "S001",
+      "destination": "S005",
+      "distance": 5,
+      "temps": 6,
+      "capacite": 110
+    },
+    {
+      "source": "S002",
+      "destination": "S003",
+      "distance": 3,
+      "temps": 4,
+      "capacite": 120
+    },
+    {
+      "source": "S002",
+      "destination": "S004",
+      "distance": 5,
+      "temps": 5,
+      "capacite": 120
+    },
+    {
+      "source": "S002",
+      "destination": "S006",
+      "distance": 9,
+      "temps": 7,
+      "capacite": 120
+    },
+    {
+      "source": "S003",
+      "destination": "S004",
+      "distance": 4,
+      "temps": 5,
+      "capacite": 130
+    },
+    {
+      "source": "S003",
+      "destination": "S005",
+      "distance": 7,
+      "temps": 6,
+      "capacite": 130
+    },
+    {
+      "source": "S003",
+      "destination": "S007",
+      "distance": 4,
+      "temps": 1,
+      "capacite": 130
+    },
+    {
+      "source": "S004",
+      "destination": "S005",
+      "distance": 5,
+      "temps": 6,
+      "capacite": 140
+    },
+    {
+      "source": "S004",
+      "destination": "S006",
+      "distance": 9,
+      "temps": 7,
+      "capacite": 140
+    },
+    {
+      "source": "S004",
+      "destination": "S008",
+      "distance": 8,
+      "temps": 2,
+      "capacite": 140
+    },
+    {
+      "source": "S005",
+      "destination": "S006",
+      "distance": 6,
+      "temps": 7,
+      "capacite": 100
+    },
+    {
+      "source": "S005",
+      "destination": "S007",
+      "distance": 2,
+      "temps": 1,
+      "capacite": 100
+    },
+    {
+      "source": "S005",
+      "destination": "S009",
+      "distance": 3,
+      "temps": 3,
+      "capacite": 100
+    },
+    {
+      "source": "S006",
+      "destination": "S007",
+      "distance": 7,
+      "temps": 1,
+      "capacite": 110
+    },
+    {
+      "source": "S006",
+      "destination": "S008",
+      "distance": 4,
+      "temps": 2,
+      "capacite": 110
+    },
+    {
+      "source": "S006",
+      "destination": "S010",
+      "distance": 7,
+      "temps": 4,
+      "capacite": 110
+    },
+    {
+      "source": "S007",
+      "destination": "S008",
+      "distance": 8,
+      "temps": 2,
+      "capacite": 120
+    },
+    {
+      "source": "S007",
+      "destination": "S009",
+      "distance": 6,
+      "temps": 3,
+      "capacite": 120
+    },
+    {
+      "source": "S007",
+      "destination": "S011",
+      "distance": 2,
+      "temps": 5,
+      "capacite": 120
+    },
+    {
+      "source": "S008",
+      "destination": "S009",
+      "distance": 9,
+      "temps": 3,
+      "capacite": 130
+    },
+    {
+      "source": "S008",
+      "destination": "S010",
+      "distance": 8,
+      "temps": 4,
+      "capacite": 130
+    },
+    {
+      "source": "S008",
+      "destination": "S012",
+      "distance": 6,
+      "temps": 6,
+      "capacite": 130
+    },
+    {
+      "source": "S009",
+      "destination": "S010",
+      "distance": 1,
+      "temps": 4,
+      "capacite": 140
+    },
+    {
+      "source": "S009",
+      "destination": "S011",
+      "distance": 1,
+      "temps": 5,
+      "capacite": 140
+    },
+    {
+      "source": "S009",
+      "destination": "S013",
+      "distance": 1,
+      "temps": 7,
+      "capacite": 140
+    },
+    {
+      "source": "S010",
+      "destination": "S011",
+      "distance": 2,
+      "temps": 5,
+      "capacite": 100
+    },
+    {
+      "source": "S010",
+      "destination": "S012",
+      "distance": 3,
+      "temps": 6,
+      "capacite": 100
+    },
+    {
+      "source": "S010",
+      "destination": "S014",
+      "distance": 5,
+      "temps": 1,
+      "capacite": 100
+    },
+    {
+      "source": "S011",
+      "destination": "S012",
+      "distance": 3,
+      "temps": 6,
+      "capacite": 110
+    },
+    {
+      "source": "S011",
+      "destination": "S013",
+      "distance": 5,
+      "temps": 7,
+      "capacite": 110
+    },
+    {
+      "source": "S011",
+      "destination": "S015",
+      "distance": 9,
+      "temps": 2,
+      "capacite": 110
+    },
+    {
+      "source": "S012",
+      "destination": "S013",
+      "distance": 4,
+      "temps": 7,
+      "capacite": 120
+    },
+    {
+      "source": "S012",
+      "destination": "S014",
+      "distance": 7,
+      "temps": 1,
+      "capacite": 120
+    },
+    {
+      "source": "S012",
+      "destination": "S016",
+      "distance": 4,
+      "temps": 3,
+      "capacite": 120
+    },
+    {
+      "source": "S013",
+      "destination": "S014",
+      "distance": 5,
+      "temps": 1,
+      "capacite": 130
+    },
+    {
+      "source": "S013",
+      "destination": "S015",
+      "distance": 9,
+      "temps": 2,
+      "capacite": 130
+    },
+    {
+      "source": "S013",
+      "destination": "S017",
+      "distance": 8,
+      "temps": 4,
+      "capacite": 130
+    },
+    {
+      "source": "S014",
+      "destination": "S015",
+      "distance": 6,
+      "temps": 2,
+      "capacite": 140
+    },
+    {
+      "source": "S014",
+      "destination": "S016",
+      "distance": 2,
+      "temps": 3,
+      "capacite": 140
+    },
+    {
+      "source": "S014",
+      "destination": "S018",
+      "distance": 3,
+      "temps": 5,
+      "capacite": 140
+    },
+    {
+      "source": "S015",
+      "destination": "S016",
+      "distance": 7,
+      "temps": 3,
+      "capacite": 100
+    },
+    {
+      "source": "S015",
+      "destination": "S017",
+      "distance": 4,
+      "temps": 4,
+      "capacite": 100
+    },
+    {
+      "source": "S015",
+      "destination": "S019",
+      "distance": 7,
+      "temps": 6,
+      "capacite": 100
+    },
+    {
+      "source": "S016",
+      "destination": "S017",
+      "distance": 8,
+      "temps": 4,
+      "capacite": 110
+    },
+    {
+      "source": "S016",
+      "destination": "S018",
+      "distance": 6,
+      "temps": 5,
+      "capacite": 110
+    },
+    {
+      "source": "S016",
+      "destination": "S000",
+      "distance": 2,
+      "temps": 7,
+      "capacite": 110
+    },
+    {
+      "source": "S017",
+      "destination": "S018",
+      "distance": 9,
+      "temps": 5,
+      "capacite": 120
+    },
+    {
+      "source": "S017",
+      "destination": "S019",
+      "distance": 8,
+      "temps": 6,
+      "capacite": 120
+    },
+    {
+      "source": "S017",
+      "destination": "S001",
+      "distance": 6,
+      "temps": 1,
+      "capacite": 120
+    },
+    {
+      "source": "S018",
+      "destination": "S019",
+      "distance": 1,
+      "temps": 6,
+      "capacite": 130
+    },
+    {
+      "source": "S018",
+      "destination": "S000",
+      "distance": 1,
+      "temps": 7,
+      "capacite": 130
+    },
+    {
+      "source": "S018",
+      "destination": "S002",
+      "distance": 1,
+      "temps": 2,
+      "capacite": 130
+    },
+    {
+      "source": "S019",
+      "destination": "S000",
+      "distance": 2,
+      "temps": 7,
+      "capacite": 140
+    },
+    {
+      "source": "S019",
+      "destination": "S001",
+      "distance": 3,
+      "temps": 1,
+      "capacite": 140
+    },
+    {
+      "source": "S019",
+      "destination": "S003",
+      "distance": 5,
+      "temps": 3,
+      "capacite": 140
+    }
+  ]
+}

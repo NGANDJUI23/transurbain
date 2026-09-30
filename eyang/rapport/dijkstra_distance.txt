@@ -1,0 +1,6 @@
+Algorithme : Moore-Dijkstra
+Critere : distance
+Source : A
+Cible : F
+Cout : 8
+Chemin : A -> C -> E -> D -> F

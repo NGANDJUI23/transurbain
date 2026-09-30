@@ -1,0 +1,15 @@
+{
+  "stations": ["A", "B", "C", "D", "E", "F"],
+  "arcs": [
+    {"source": "A", "destination": "B", "distance": 4, "temps": 2, "capacite": 10},
+    {"source": "A", "destination": "C", "distance": 2, "temps": 5, "capacite": 8},
+    {"source": "B", "destination": "C", "distance": 1, "temps": 1, "capacite": 5},
+    {"source": "B", "destination": "D", "distance": 5, "temps": 3, "capacite": 7},
+    {"source": "C", "destination": "E", "distance": 3, "temps": 2, "capacite": 6},
+    {"source": "D", "destination": "E", "distance": 1, "temps": 4, "capacite": 4},
+    {"source": "D", "destination": "F", "distance": 2, "temps": 2, "capacite": 9},
+    {"source": "E", "destination": "D", "distance": 1, "temps": 1, "capacite": 3},
+    {"source": "E", "destination": "F", "distance": 4, "temps": 3, "capacite": 5},
+    {"source": "F", "destination": "E", "distance": 2, "temps": 2, "capacite": 4}
+  ]
+}

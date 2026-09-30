@@ -1,0 +1,13 @@
+Ford-Fulkerson
+Source : A
+Puits : F
+Flot maximum : 13
+Chaines ameliorantes :
+  1. A -> B -> D -> F  (debit 7)
+  2. A -> C -> E -> F  (debit 5)
+  3. A -> C -> E -> D -> F  (debit 1)
+Coupe minimale :
+  B -> D (capacite 7)
+  C -> E (capacite 6)
+Capacite de la coupe : 13
+Goulets : B->D, C->E
